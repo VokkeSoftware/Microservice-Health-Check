@@ -19,6 +19,6 @@
     "aws/aws-sdk-php": "3.21.6"
   },
   "autoload": {
-    "psr-4": {"HealthCheck\\": "HealthCheck/"}
+    "psr-4": {"HealthChecker\\": "HealthCheck/"}
   }
 }
