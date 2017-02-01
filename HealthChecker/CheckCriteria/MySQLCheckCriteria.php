@@ -1,6 +1,6 @@
 <?php
 
-namespace CheckCriteria;
+namespace HealthCheck\CheckCriteria;
 
 /**
  * Class MySQLCheckCriteria

@@ -1,7 +1,8 @@
 <?php
 
-namespace HealthCheckService;
-use CheckCriteria\ICheckCriteria;
+namespace HealthCheck\HealthCheckService;
+
+use HealthCheck\CheckCriteria\ICheckCriteria;
 
 /**
  * Class HealthCheckService

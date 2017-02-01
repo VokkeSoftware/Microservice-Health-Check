@@ -1,6 +1,7 @@
 <?php
 
-namespace CheckCriteria;
+namespace HealthCheck\CheckCriteria;
+
 use Aws\S3\S3Client;
 
 /**
