@@ -1,0 +1,24 @@
+{
+  "name": "vokke/health-checker",
+  "description": "Microservice health check library for microservices",
+  "version": "1.0.0",
+  "type": "library",
+  "keywords": ["router", "oop"],
+  "time": "2017",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Adrian Grayson-Widarsito, Daniel Lee",
+      "email": "technical@vokke.com.au",
+      "homepage": "http://vokke.com.au",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "slim/slim": "~2.6",
+    "aws/aws-sdk-php": "3.21.6"
+  },
+  "autoload": {
+    "psr-4": {"Yam\\": "HealthCheck/"}
+  }
+}
